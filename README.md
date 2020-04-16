@@ -1,2 +1,2 @@
 # LPII
-Atividades Continuas de LPII
+Atividades Contínuas de LPII
